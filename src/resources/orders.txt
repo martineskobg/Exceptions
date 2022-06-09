@@ -1,0 +1,4 @@
+Order{id=1, orderName='Order1', creator='bachev', orderItems=0, creationDate=2022-06-08}
+Order{id=2, orderName='Order2', creator='petrov', orderItems=1, creationDate=2022-06-08}
+Order{id=3, orderName='Order3', creator='ivanov', orderItems=3, creationDate=2022-06-08}
+Order{id=4, orderName='Order4', creator='dimitrov', orderItems=10, creationDate=2022-06-08}
