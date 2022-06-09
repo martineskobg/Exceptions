@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1031c6a-03f7-476f-9f1a-74d939654cf6" name="Changes" comment="gitignore + temp2" />
+    <list default="true" id="c1031c6a-03f7-476f-9f1a-74d939654cf6" name="Changes" comment="gitignore + temp2">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +18,14 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="master" />
+    <option name="BRANCH" value="marto" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="marto" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -65,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -117,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654761426945</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="change made by master branch">
+      <created>1654777448290</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654777448290</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change made by marto branch">
+      <created>1654777578117</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654777578117</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +164,9 @@
     <MESSAGE value="Updates 2" />
     <MESSAGE value="Updates" />
     <MESSAGE value="gitignore + temp2" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore + temp2" />
+    <MESSAGE value="change made by master branch" />
+    <MESSAGE value="change made by marto branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="change made by marto branch" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
