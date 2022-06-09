@@ -6,6 +6,7 @@ out/
 
 # ignore ALL files in ANY directory named temp
 temp
+temp2
 
 ### Eclipse ###
 .apt_generated
